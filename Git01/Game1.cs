@@ -9,8 +9,6 @@ namespace Git01
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         int num1;
-        int num2;
-        int num3;
 
         public Game1()
         {
